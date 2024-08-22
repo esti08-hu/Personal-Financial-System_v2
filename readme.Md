@@ -39,8 +39,8 @@
 
 1. **Clone the repository:**
    ```bash
-https://github.com/esti08-hu/Personal-Financial-System-v2.git
-cd Personal-Financial-System-v2
+   https://github.com/esti08-hu/Personal-Financial-System-v2.git
+   cd Personal-Financial-System-v2
    ```
 
 2. **Install dependencies:**
